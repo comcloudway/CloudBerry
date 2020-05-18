@@ -19,6 +19,7 @@ class _CloudBerryState extends State<CloudBerry> {
     return ThemeProvider(
         saveThemesOnChange: true,
         loadThemeOnInit: true,
+        defaultThemeId: 'dark',
         themes: [
           AppTheme(
               id: 'dark',
