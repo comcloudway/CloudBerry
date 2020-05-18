@@ -30,7 +30,7 @@ const RESOURCES = {
 "assets/LICENSE": "a6ad5c6419047437c2b91acba24aebc3",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "manifest.json": "80a85171d2c58113b33f7a218c649073",
-"main.dart.js": "044ca7646851c3f9c4e5b81bc742fe4a",
+"main.dart.js": "0b2d28f36db107de41b60a7569b9388d",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "index.html": "83b8fadc994c6c4a90062369c3d75158",
