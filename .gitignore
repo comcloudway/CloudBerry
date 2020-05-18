@@ -35,6 +35,8 @@ build/flutter*
 build/kotlin
 build/shared_preferences
 build/path_provider
+build/url_launcher
+build/webview_flutter
 build/*.*
 # Web related
 lib/generated_plugin_registrant.dart
