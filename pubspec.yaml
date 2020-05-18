@@ -26,7 +26,6 @@ dependencies:
   easy_web_view: ^1.2.0
   flutter_vector_icons: ^0.2.1
   shared_preferences: ^0.5.7+2
-  flutter_webview_plugin: ^0.3.11
   provider: ^4.1.2
   theme_provider: ^0.3.3
   http: ^0.12.1

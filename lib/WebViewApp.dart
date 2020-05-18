@@ -1,8 +1,6 @@
 import 'package:CloudBerry/main.dart';
 import 'package:easy_web_view/easy_web_view.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:flutter_webview_plugin/flutter_webview_plugin.dart';
-
 class WebViewApp extends StatefulWidget {
   WebViewApp({Key key, this.url}) : super(key: key);
   String url;
